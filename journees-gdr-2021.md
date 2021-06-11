@@ -7,6 +7,9 @@ Le GT VL organise une session en parallèle des journées du GDR-GPL le **18 jui
 
 ## Inscription et connexion
 
+Inscription gratuite mais obligatoire pour avoir accès aux journées : [https://gdr-gpl-2021.sciencesconf.org](https://gdr-gpl-2021.sciencesconf.org).
+Une fois l'inscription effectuée, le programme des journées ainsi que les informations de connexion sont consultables depuis la page [Salles Virtuelles](https://gdr-gpl-2021.sciencesconf.org/resource/page/id/3).
+
 ## Programme
 
 * 13:30--13:35<br>**Introduction**<br>*Djamel E. Khelladi, Thomas Degueule*
