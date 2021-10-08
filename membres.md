@@ -25,7 +25,7 @@ Les équipes impliquées dans le GT VL au niveau national sont :
   * Représentant dans l'équipe  : Julia Lawall
 * Équipe Move,  LIP6, Paris :
   * Représentant dans l'équipe  : Tewfik Ziadi
-* Équipe ASI,  Disp Lab, Bron :
+* Équipe SIDO,  Disp Lab, Bron :
   * Représentant dans l'équipe  : Jannik Laval
 * Équipe Informatique, LAMIH, Valenciennes :
   * Représentant dans l'équipe  : Matias Martinez
