@@ -3,7 +3,7 @@ layout: default
 title: Journée 2021
 ---
 
-La journée 2021 du [groupe de travail Vélocité Logicielle](https://gdr-gpl.cnrs.fr/Groupes/VL) se tiendra le **jeudi 2 décembre** au [LIP6](https://www.lip6.fr) à Paris.
+La journée 2021 du [groupe de travail Vélocité Logicielle](https://gdr-gpl.cnrs.fr/Groupes/VL) se tiendra le **jeudi 2 décembre** au [LIP6](https://www.lip6.fr) à Paris, salle 105, tours 25/26, 1er étage.
 
 ### Programme de la journée
 
