@@ -31,6 +31,8 @@ Les équipes impliquées dans le GT VL au niveau national sont :
   * Représentant dans l'équipe  : Matias Martinez
 * Équipe MUSCAT-SPARKS, I3S, Sophia Antipolis :
   * Représentant dans l'équipe  : Philippe Collet
+* Équipe ACES, Télécom Paris :
+  * Représentant dans l'équipe  : Théo Zimmerman
 
 Les thématiques du GT sont également portées par une riche communauté francophone à l'étranger :
 
