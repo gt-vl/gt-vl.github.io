@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Journées 2020
+title: Journée 2020
 ---
 
 La journée 2020 du [groupe de travail Vélocité Logicielle](https://gdrgpl.myxwiki.org/xwiki/bin/view/Main/GTs/GT%20Rimel/) se tiendra le **mercredi 16 décembre** en visioconférence.
