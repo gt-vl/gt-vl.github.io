@@ -7,7 +7,7 @@ La journée commune 2023 des groupes de travail Vélocité Logicielle et Génie 
 
 ### Programme de la journée
 
-**09:30–10:00** Welcome
+**09:30–10:00** Welcome\
 **10:00–10:30** A Framework For Enriching And Querying the Maven Central Dependency Graph -– *Damien Jaime*\
 **10:30–11:00** Foundations for Continuous Engineering Trustworthy Autonomy -– *Saddek Bensalem*\
 **11:00–11:30** Break
