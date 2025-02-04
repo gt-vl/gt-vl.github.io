@@ -3,7 +3,7 @@ layout: default
 title: Journée 2023
 ---
 
-La journée commune 2023 des groupes de travail Vélocité Logicielle et Génie Logiciel et Intelligence Artificielle s'est au LIP6 le 12 décembre 2023.
+La journée commune 2023 des groupes de travail Vélocité Logicielle et Génie Logiciel et Intelligence Artificielle s'est tenue au LIP6 le 12 décembre 2023.
 
 ### Programme de la journée
 
