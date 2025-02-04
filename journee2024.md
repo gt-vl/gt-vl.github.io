@@ -8,7 +8,7 @@ La journée commune 2024 des groupes de travail Vélocité Logicielle et Génie 
 ### Programme
 
 **09:30–10:00** Welcome\
-**10:00–10:15** Introduction -- *Thomas Degueule, David Delahaye, Djamel Eddine Khelladi, Romain Robbes, Djamel Seriai*
+**10:00–10:15** Introduction -- *Thomas Degueule, David Delahaye, Djamel Eddine Khelladi, Romain Robbes, Djamel Seriai*\
 **10:15–10:45** Code Generation: Harder, Better, Faster, Stronger -– *Théo Matricon*\
 **10:45–11:15** Equilibrage entre qualité et coût lors de la mise à jour des dépendances logicielles -- *Pascal Poizat*\
 **11:15–11:30** Break\
