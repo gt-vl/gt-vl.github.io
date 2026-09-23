@@ -6,7 +6,8 @@ title: Membres
 ## Responsables
 
 * Djamel E. Khelladi, DiverSE, IRISA
-* Thomas Degueule, Progress, LaBRI
+* Stéphanie Challita, DiverSE, IRISA
+* Théo Zimmerman, ACES, Télécom Paris
 
 ## Équipes
 
